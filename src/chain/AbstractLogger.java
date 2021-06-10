@@ -1,0 +1,7 @@
+
+package chain;
+
+
+class AbstractLogger {
+    
+}
